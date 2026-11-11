@@ -6,9 +6,9 @@ The analysis examines data-quality issues, compares predictive models, and illus
 
 ## Project files
 
-- [Analysis notebook](portolio_project1_of_FINANCE/finance_credit_default_analysis.ipynb)
-- [Interactive walkthrough](portolio_project1_of_FINANCE/finance_credit_default_animation.html)
-- [Original project notes](portolio_project1_of_FINANCE/finance_credit_default_README.md)
+- [Analysis notebook](finance_credit_default_analysis.ipynb)
+- [Interactive walkthrough](finance_credit_default_animation.html)
+- [Original project notes](finance_credit_default_README.md)
 
 ## Headline result
 
