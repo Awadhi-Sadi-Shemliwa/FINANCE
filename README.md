@@ -1,13 +1,13 @@
 # FINANCE — Credit Default Analysis
 
-A portfolio project predicting next-month credit-card default using six months of customer repayment history from a Taiwanese bank dataset.
-
-The analysis examines data-quality issues, compares predictive models, and illustrates how an intervention threshold can reflect business costs.
+A portfolio project predicting next-month credit-card default using six months of customer repayment history from a Taiwanese bank dataset. The analysis examines data-quality issues, compares predictive models, and illustrates how an intervention threshold can reflect business costs.
 
 ## Project files
 
 - [Analysis notebook](finance_credit_default_analysis.ipynb)
 - [Interactive walkthrough](https://awadhi-sadi-shemliwa.github.io/FINANCE/finance_credit_default_animation.html)
+- [Project video: Where to Draw the Line](https://awadhi-sadi-shemliwa.github.io/FINANCE/finance-where-to-draw-the-line_hq.html)
+- [MP4 video file](finance-where-to-draw-the-line_hq.mp4)
 - [Original project notes](finance_credit_default_README.md)
 
 ## Headline result
@@ -20,4 +20,4 @@ The dataset is from Yeh and Lien’s credit-card default study, distributed by t
 
 ## Reproduction note
 
-This starter repository contains the supplied notebook, HTML walkthrough, and project notes. Reproducing the analysis may also require the source dataset, data-download script, dependencies, and generated results and figures. The example cost ratio is an assumption, not a bank’s validated policy.
+This repository includes the supplied notebook, HTML walkthrough, project video, and project notes. Reproducing the analysis may also require the source dataset, data-download script, dependencies, and generated results and figures. The example cost ratio is an assumption, not a validated operational policy.
