@@ -7,7 +7,7 @@ The analysis examines data-quality issues, compares predictive models, and illus
 ## Project files
 
 - [Analysis notebook](finance_credit_default_analysis.ipynb)
-- [Interactive walkthrough](finance_credit_default_animation.html)
+- [Interactive walkthrough](https://awadhi-sadi-shemliwa.github.io/FINANCE/finance_credit_default_animation.html)
 - [Original project notes](finance_credit_default_README.md)
 
 ## Headline result
