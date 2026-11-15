@@ -1,23 +1,7 @@
-# FINANCE — Credit Default Analysis
+# FINANCE: Finance data science projects
 
-A portfolio project predicting next-month credit-card default using six months of customer repayment history from a Taiwanese bank dataset. The analysis examines data-quality issues, compares predictive models, and illustrates how an intervention threshold can reflect business costs.
+Each project lives in its own folder with its notebook, notes, interactive walkthrough and video.
 
-## Project files
-
-- [Analysis notebook](finance_credit_default_analysis.ipynb)
-- [Interactive walkthrough](https://awadhi-sadi-shemliwa.github.io/FINANCE/finance_credit_default_animation.html)
-- [Project video: Where to Draw the Line](https://awadhi-sadi-shemliwa.github.io/FINANCE/finance-where-to-draw-the-line_hq.html)
-- [MP4 video file](finance-where-to-draw-the-line_hq.mp4)
-- [Original project notes](finance_credit_default_README.md)
-
-## Headline result
-
-The project reports a ROC AUC of about 0.78 for a gradient-boosting model using repayment behavior. It illustrates a cost-based threshold under an explicitly assumed ratio of missed-default cost to contact cost.
-
-## Data and scope
-
-The dataset is from Yeh and Lien’s credit-card default study, distributed by the UCI Machine Learning Repository under CC BY 4.0. The data is historical and comes from one bank.
-
-## Reproduction note
-
-This repository includes the supplied notebook, HTML walkthrough, project video, and project notes. Reproducing the analysis may also require the source dataset, data-download script, dependencies, and generated results and figures. The example cost ratio is an assumption, not a validated operational policy.
+| Project | What it covers |
+|---|---|
+| [Where to Draw the Line: credit default](credit-default/) | Predicting next-month credit-card default from six months of repayment history, with a cost-based intervention threshold. |
